@@ -11,7 +11,7 @@ Operating Systems:
 - iPadOS
 
 Tools: 
-- ABD
+- Android Debug Bridge
 - Zeus
 - Nmap (Host Network Discovery, Port Analysis, Firewall Management)
 - Wireshark (Packet Analysis, Seeking Plaintext Exposure, Port Analysis, Firewall Troublshooting) 
@@ -27,7 +27,13 @@ Devices:
 - Laptops (Old ThinkPads, Modern ROG Strix, Chromebooks)
 - Tower Desktops (Asus, HP, Alienware, Dell)
 - Simple Network Servers, Switches, and Routers (Cisco, TP Link)
-- Rooted Android (Moto G Play, Revvl 2) Self-Flashed
-- Jailbroken iOS (Iphone 4, Iphone 6) Self-Flashed
-- Homebrew 2DS
-- Homebrew Wii
+- Android Devices (Moto G Play, Revvl 2, Samsung A32, Samsung S23 Ultra)
+- iOS Devices (iPhone 3GS, 4, 6, XR)
+
+Experiences:
+- Legacy Device Post-Exploitation & Custom ROM Deployment
+- Network Traffic Analysis & Packet Inspection for Data Exfiltration
+- Hardware Lifecycle Management & Physical Layer Troubleshooting
+- Mobile OS Privilege Escalation
+
+ 
