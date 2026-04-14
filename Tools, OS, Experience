@@ -22,6 +22,7 @@ Tools:
 - Bash Terminal (Debian-based) for Server Hosting, Samba Management
 - Autopsy for Digital Forensics on System Images
 - Flashing Linux with Rufus
+- Ngrok for Reverse Proxy to Securely Forward Open Application Access
 
 Devices:
 - Laptops (Old ThinkPads, Modern ROG Strix, Chromebooks)
