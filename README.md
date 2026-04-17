@@ -1,3 +1,3 @@
 # Applications of IT in Work
 Recognizing and Implementing IT Awareness and Cybersecurity Practices in the Workplace
-![Graphic Depicting Telecomms Experience](https://github.com/Hyprolink/IT-Cyber/blob/Work/Telecomms-Graphic.png)
+![Teambuilding photo at Primecomms Town Hall](https://github.com/Hyprolink/IT-Cyber/blob/Work/TeambuildingATT.jpg)
